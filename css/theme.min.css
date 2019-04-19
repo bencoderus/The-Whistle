@@ -1,0 +1,136 @@
+/* 
+CSS DEVELOPED BY BENART
+*/
+body
+{
+background-color: white;
+color: black;
+margin: 0px;
+font-size: 14px;
+}
+.hdd{
+	background-color: #4A148C !important;
+	color: #fff !important;
+}
+   .mycontainer
+    {
+    margin-right: 40px;
+    margin-left: 40px;
+}
+    label
+    {
+    font-weight: bold;
+    }
+    
+    .maincontent
+    {
+    color: rgba(255, 255, 255, 0.8);
+    background-color: #4A148C;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;  
+    padding-bottom: 30px;
+    }
+    
+    .main
+    {
+    background-color: #563D7C;
+    color: white;
+    border: 1px solid #563D7C;
+    font-weight: bold;
+    padding: 12px;
+    }
+    .gray
+    {
+        background-color: grey;
+        border: 1px solid #000000;
+        color: black;
+        padding: 14px;
+        text-align: center;
+        font-weight: bold;
+        margin:  0px 10px 0px 10px;
+        }
+        
+    .content
+    {
+    background-color: #ffffff;
+    color: black;
+    border: 1px solid #000000;
+    padding: 14px;
+    font-weight: none;
+    margin:  0px 10px 0px 10px;
+    text-align: justify;
+    }
+    .publish
+    {
+    background-color: #dedede;
+    color: black;
+    padding: 12px;
+    margin: 0px;
+    }
+    
+    .comment
+    {
+        background-color: yellow;
+        color: black;
+        border: 1px solid #563D7C;
+        padding: 14px;
+        font-weight: bold;
+        text-align: center;
+            }
+            .post
+            {
+            background-color: white;
+            padding: 15px;
+            border: 1px solid #DEDFDE;
+            color:black;
+            text-align: left;
+            }    
+            
+/*SERVICEBOX CSS
+*/
+.servicebox
+{
+
+    border-right: 1px solid #aaa;
+    padding: 30px 30px 15px 40px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    color: #fff;
+    background: #4A148C;
+    margin-bottom: 5px;
+}
+.service-box-content
+{
+    -webkit-box-flex: 3;
+    -moz-flex: 3;
+    -webkit-flex: 3;
+    flex: 3;
+color: #fff;
+
+}
+
+.service-box-content h3 a{color:#fff;-webkit-transition:all .3s ease-out;-moz-transition:all .3s ease-out;-ms-transition:all .3s ease-out;-o-transition:all .3s ease-out;transition:all .3s ease-out}
+
+.service-box-content h3 a:hover{color:#fff;-webkit-transition:all .3s ease-out;-moz-transition:all .3s ease-out;-ms-transition:all .3s ease-out;-o-transition:all .3s ease-out;transition:all .3s ease-out}
+.service-box-icon
+{
+color: #fff;
+    font-size: 36px;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: all .5s ease-out;
+    -moz-transition: all .5s ease-out;
+    -ms-transition: all .5s ease-out;
+    -o-transition: all .5s ease-out;
+    transition: all .5s ease-out;
+    }
+    .servicebox-wrapper
+    {
+    margin-right: 20px;
+    margin-left: 20px;
+}
