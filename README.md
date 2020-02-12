@@ -1,2 +1,9 @@
-# WB1
-A simple whistle blower system built with OOPHP, MYSQL, HTML, CSS AND JS
+# A PHP Whistle Blower Project.
+This project was built for educational purpose.
+
+
+##Tools
+PHP & MYSQL
+HTML.
+CSS (BOOTSTRAP 4).
+JAVASCRIPT & JQUERY.
